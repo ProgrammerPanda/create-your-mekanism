@@ -1,2 +1,2 @@
-# create-your-mekanism
+# Create Your Mekanism
 Personal CMP Server Pack for Minecraft
