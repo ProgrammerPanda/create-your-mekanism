@@ -1,0 +1,1221 @@
+{
+  "name": "Create Your Mekanism",
+  "version": "1.0.0",
+  "author": "CodeMePanda",
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "neoforge",
+        "version": "21.1.132"
+      }
+    ]
+  },
+  "files": [
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "actuallyadditions",
+      "version": "1.3.15+mc1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "addonslib-neoforge",
+      "version": "1.21.1-1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ae2wtlib",
+      "version": "19.2.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "amendments",
+      "version": "1.21-1.2.24-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ApothicAttributes",
+      "version": "1.21.1-2.6.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ApothicEnchanting",
+      "version": "1.21.1-1.3.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ApothicSpawners",
+      "version": "1.21.1-1.2.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "appleskin-neoforge",
+      "version": "mc1.21-3.0.5"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "applied-experienced",
+      "version": "1.21.1-1.1.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Applied-Mekanistics",
+      "version": "1.6.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "appliedenergistics2",
+      "version": "19.2.5-beta"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "appliedenergisticsdelight",
+      "version": "1.0.2.6-1.21.x"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "AppliedFlux",
+      "version": "1.21-2.0.5-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "aquaculturedelight",
+      "version": "1.2.0-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "arcaneessenceblock",
+      "version": "1.0.1-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "architectury",
+      "version": "13.0.8-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "athena-neoforge",
+      "version": "1.21-4.0.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "atlas_api",
+      "version": "1.21-1.0.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Atlas-Lib",
+      "version": "1.21.0-1.1.14"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "balm-neoforge",
+      "version": "1.21.1-21.0.31"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "bookshelf-neoforge",
+      "version": "1.21.1-21.1.50"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "buildinggadgets2",
+      "version": "1.3.8"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "chipped-neoforge",
+      "version": "1.21.1-4.0.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "clientcrafting",
+      "version": "1.21-1.8"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "clienttweaks-neoforge",
+      "version": "1.21.1-21.1.4"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Clumps-neoforge",
+      "version": "1.21.1-19.0.0.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "CodeChickenLib",
+      "version": "1.21.1-4.6.0.521"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "collective",
+      "version": "1.21.1-7.94"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "connectedglass",
+      "version": "1.1.12-neoforge-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Controlling-neoforge",
+      "version": "1.21.1-19.0.4"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Corgilib-NeoForge",
+      "version": "1.21.1-5.0.0.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "cosmeticarmorreworked",
+      "version": "1.21.1-v1-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Create Encased",
+      "version": "1.21.1-1.7.0-fix1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Create Quality of Life",
+      "version": "1.21.1-1.3.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_better_villagers",
+      "version": "1.2.6-Neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_cheese_factory",
+      "version": "1.2.0-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_compressed",
+      "version": "2.2.0-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_copper_and_zinc",
+      "version": "1.6.5-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_deep_dark",
+      "version": "1.8.0-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_easy_structures",
+      "version": "0.1.3-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_extra_casing",
+      "version": "3.0.0-NeoForge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_ltab",
+      "version": "2.6.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_oxidized",
+      "version": "0.1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_simple_ore_doubling",
+      "version": "1.5.5-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_structures_arise",
+      "version": "148.21.22-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_ultimate_factory",
+      "version": "1.9.0-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create_waystones_recipes",
+      "version": "3.0.0-NeoForge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "create",
+      "version": "1.21.1-6.0.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "createchromaticreturn",
+      "version": "1.0.1-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "createcontraptionterminals",
+      "version": "1.21-1.2.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "createdecodelight",
+      "version": "1.0.3.1-1.21.x"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "createframed",
+      "version": "1.21.1-1.6"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "createlowheated-neoforge",
+      "version": "1.21.1-6.0.1-1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "createoreexcavation",
+      "version": "1.21-1.6.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "cupboard",
+      "version": "1.21-2.9"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "curios-neoforge",
+      "version": "9.2.3+1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "CustomMachinery-neoforge",
+      "version": "1.21.1-0.10.24"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "CustomMachineryCreate",
+      "version": "1.21.1-1.2.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "deimos",
+      "version": "1.21.1-neoforge-2.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "dismountentity",
+      "version": "1.21.1-3.6"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "doubledoors",
+      "version": "1.21.1-6.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "elevatorid-neoforge",
+      "version": "1.21.1-1.11.4"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "enderio",
+      "version": "7.1.6-alpha"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "EnderStorage",
+      "version": "1.21.1-2.13.0.191"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "entityculling-neoforge",
+      "version": "1.7.3-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "entitydetectors",
+      "version": "1.21.1-4.0.0.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "experiencelib",
+      "version": "1.21.1-1.0.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "factory_blocks",
+      "version": "1.4.0+mc1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "farmers-cutting-oh-the-biomes-weve-gone",
+      "version": "1.21.1-2.1-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "FarmersDelight",
+      "version": "1.21.1-1.2.7"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "FastItemFrames",
+      "version": "v21.1.1-1.21.1-NeoForge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "fastleafdecay",
+      "version": "35"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ferritecore",
+      "version": "7.0.2-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "FramedBlocks",
+      "version": "10.3.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ftb-chunks-neoforge",
+      "version": "2101.1.7"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ftb-essentials-neoforge",
+      "version": "2101.1.6"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ftb-library-neoforge",
+      "version": "2101.1.10"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ftb-teams-neoforge",
+      "version": "2101.1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ftb-ultimine-neoforge",
+      "version": "2101.1.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "functionalstorage",
+      "version": "1.21.1-1.4.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "fusion",
+      "version": "1.2.4-neoforge-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "gametechbcs_spellbooks",
+      "version": "2.6.5-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "geckolib-neoforge",
+      "version": "1.21.1-4.7.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Glassential-renewed",
+      "version": "1.21.1-3.1.5"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Glodium",
+      "version": "1.21-2.2-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "gtbcs_spell_lib",
+      "version": "1.0.1-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "guideme",
+      "version": "21.1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ImmersiveEngineering",
+      "version": "1.21.1-12.1.0-185"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "industrialforegoing",
+      "version": "1.21-3.6.24"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "inventoryhud.neoforged",
+      "version": "1.21.1-3.4.26"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "InventoryProfilesNext-neoforge",
+      "version": "1.21-2.1.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "IronDoorKey-NEOFORGE",
+      "version": "1.21.1-1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ironladders",
+      "version": "1.21.1-2.7.04-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "irons_jewelry",
+      "version": "1.21.1-1.0.9"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "irons_spellbooks",
+      "version": "1.21-3.8.10"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "ironsspellsdelight",
+      "version": "1.1.0-1.21.x"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Jade",
+      "version": "1.21.1-NeoForge-15.9.4"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "JadeAddons",
+      "version": "1.21.1-NeoForge-6.0.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "jamd-neo",
+      "version": "5.1.0+mc1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "jamlib-neoforge",
+      "version": "1.3.2+1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "jei",
+      "version": "1.21.1-neoforge-19.21.0.247"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "jmi-neoforge",
+      "version": "1.21.1-1.8"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "journeymap-neoforge",
+      "version": "1.21.1-6.0.0-beta.39"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "JustEnoughMekanismMultiblocks",
+      "version": "1.21.1-7.5"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "kotlinforforge",
+      "version": "5.7.0-all"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "kubejs_actuallyadditions-neoforge",
+      "version": "1.21.1-0.2.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "kubejs_enderio-neoforge",
+      "version": "1.21.1-0.7.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "kubejs-mekanism-neoforge",
+      "version": "2101.1.6-build.6"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "kubejs-neoforge",
+      "version": "2101.7.1-build.181"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "laserbridges",
+      "version": "1.21.1-neoforge-5"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "libIPN-neoforge",
+      "version": "1.21-6.3.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "lootjs-neoforge",
+      "version": "1.21.1-3.3.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MagicDoorknob",
+      "version": "1.21.1-1.1.2.2065"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-bridges",
+      "version": "3.0.0-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-doors",
+      "version": "1.1.2-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-fences",
+      "version": "1.1.2-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-furniture",
+      "version": "3.3.0-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-lights",
+      "version": "1.1.1-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-paintings",
+      "version": "1.0.5-1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-paths",
+      "version": "1.1.0neoforge-mc1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-roofs",
+      "version": "2.3.1-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-stairs",
+      "version": "1.0.1-1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-trapdoors",
+      "version": "1.1.4-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcw-windows",
+      "version": "2.3.0-mc1.21.1neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mcwbyg-neoforge",
+      "version": "1.21.1-1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mekanism_turrets",
+      "version": "2.1.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mekanism_unleashed",
+      "version": "0.2.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Mekanism",
+      "version": "1.21.1-10.7.10.73"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MekanismAdditions",
+      "version": "1.21.1-10.7.10.73"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mekanismcovers",
+      "version": "1.3-BETA+1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "mekanismdelight",
+      "version": "1.0.2.3-1.21.x"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MekanismGenerators",
+      "version": "1.21.1-10.7.10.73"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MekanismLasers",
+      "version": "1.12.1-1.1.10"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MekanismScience",
+      "version": "1.21.1-1.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MekanismTools",
+      "version": "1.21.1-10.7.10.73"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MekaWeapons",
+      "version": "1.12.1-2.0.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MOAdecor BATH",
+      "version": "1.21.1.B"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MOAdecor ELECTRONICS",
+      "version": "1.21.1.A"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "modernfix-neoforge",
+      "version": "5.20.2+mc1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "moonlight",
+      "version": "1.21-2.17.32-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MoreMekanismProcessing",
+      "version": "1.21.1-6.3"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "MouseTweaks-neoforge",
+      "version": "mc1.21-2.26.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Oh-The-Biomes-Weve-Gone-NeoForge",
+      "version": "2.3.8"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Oh-The-Trees-Youll-Grow-neoforge",
+      "version": "1.21.1-5.0.6"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Placebo",
+      "version": "1.21.1-9.7.0"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "player-animation-lib-forge",
+      "version": "2.0.1+1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "PuzzlesLib",
+      "version": "v21.1.28-1.21.1-NeoForge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "rch-supplementaries-compat-neoforge",
+      "version": "2.0.0+1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "rechiseled_chipped",
+      "version": "1.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "rechiseled",
+      "version": "1.1.6a-neoforge-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "resourcefullib-neoforge",
+      "version": "1.21-3.0.11"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "rhino",
+      "version": "2101.2.7-build.74"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "rightclickharvest-neoforge",
+      "version": "4.5.2+1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "Searchables-neoforge",
+      "version": "1.21.1-1.0.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "SimpleBackups",
+      "version": "1.21-4.0.8"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "simplemagnets",
+      "version": "1.1.12b-neoforge-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "snowundertrees",
+      "version": "1.21.1-1.4.9"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "sophisticatedbackpacks",
+      "version": "1.21.1-3.24.1.1209"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "sophisticatedcore",
+      "version": "1.21.1-1.3.2.900"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "sophisticatedstorage",
+      "version": "1.21.1-1.4.0.1077"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "sophisticatedstorageinmotion",
+      "version": "1.21.1-0.10.5.72"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "supermartijn642configlib",
+      "version": "1.1.8-neoforge-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "supermartijn642corelib",
+      "version": "1.1.18a-neoforge-mc1.21"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "supplementaries",
+      "version": "1.21-3.0.39-beta-neoforge"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "supplementariesdelight",
+      "version": "1.1.1.1-1.21.x"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "TerraBlender-neoforge",
+      "version": "1.21.1-4.1.0.8"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "toms_storage",
+      "version": "1.21-2.1.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "toofast",
+      "version": "1.21.0-0.4.3.5"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "trenzalore-neo",
+      "version": "6.1.1+mc1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "undergardendelight",
+      "version": "1.2.1-neoforge-1.21.1"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "villagernames",
+      "version": "1.21.1-8.2"
+    },
+    {
+      "projectID": 0,
+      "fileID": 0,
+      "required": true,
+      "name": "waystones-neoforge",
+      "version": "1.21.1-21.1.12"
+    }
+  ],
+  "overrides": "overrides"
+}
