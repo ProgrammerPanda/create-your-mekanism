@@ -1,0 +1,9 @@
+/spawn
+/gamemode creative Nikobrodet
+/op Nikobrodet
+/summon minecraft:zombie
+/effect clear
+/summon minecraft:zombie
+/summon minecraft:zombie ~ ~ ~ {}
+/setblock ~ ~ ~ glass
+/kill @e[type=!minecraft:player]

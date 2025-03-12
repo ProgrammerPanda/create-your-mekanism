@@ -1,0 +1,13 @@
+[22:50:30] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[22:50:30] [INIT] Loaded plugins:
+[22:50:30] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[22:50:30] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[22:50:30] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[22:50:30] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:50:30] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[22:50:30] [INIT] - com.almostreliable.kubeaa.KubePlugin
+[22:50:30] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[22:50:30] [INIT] - com.almostreliable.kubeio.KubePlugin
+[22:50:31] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[22:50:31] [INFO] Loaded script startup_scripts:main.js in 0.055 s
+[22:50:31] [INFO] Loaded 1/1 KubeJS startup scripts in 0.845 s with 0 errors and 0 warnings

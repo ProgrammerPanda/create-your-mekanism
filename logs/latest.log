@@ -1,0 +1,43 @@
+[12Mar2025 00:00:14.786] [Render thread/ERROR] [com.mojang.blaze3d.audio.OpenAlUtil/]: Deleting stream buffers: Invalid operation.
+[12Mar2025 00:00:14.788] [Render thread/ERROR] [com.mojang.blaze3d.audio.OpenAlUtil/]: Deleting stream buffers: Invalid operation.
+[12Mar2025 00:00:28.645] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 642 advancements
+[12Mar2025 00:00:32.668] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 642 advancements
+[12Mar2025 00:00:34.448] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 642 advancements
+[12Mar2025 00:02:38.091] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[12Mar2025 00:03:22.273] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Removed every effect from CodeMePanda
+[12Mar2025 00:07:59.158] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 645 advancements
+[12Mar2025 00:09:03.192] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 647 advancements
+[12Mar2025 00:11:42.977] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Summoned new Zombie
+[12Mar2025 00:12:09.343] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Summoned Polar Bear faded from this world.
+[12Mar2025 00:14:59.643] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 647 advancements
+[12Mar2025 00:16:25.634] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 647 advancements
+[12Mar2025 00:23:53.218] [Render thread/ERROR] [com.mojang.blaze3d.audio.OpenAlUtil/]: Deleting stream buffers: Invalid operation.
+[12Mar2025 00:23:53.218] [Render thread/ERROR] [com.mojang.blaze3d.audio.OpenAlUtil/]: Deleting stream buffers: Invalid operation.
+[12Mar2025 00:24:49.520] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] CodeMePanda has made the advancement [Ice Bucket Challenge]
+[12Mar2025 00:24:49.556] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 657 advancements
+[12Mar2025 00:25:33.332] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 661 advancements
+[12Mar2025 00:28:05.489] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Backup started...
+[12Mar2025 00:28:06.666] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Backup completed in 1.181s (33.4 MB | 68.8 MB)
+[12Mar2025 00:35:49.905] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Nikobrodet has made the advancement [Acquire Hardware]
+[12Mar2025 00:37:20.872] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 680 advancements
+[12Mar2025 00:44:06.662] [Render thread/ERROR] [com.mojang.blaze3d.audio.OpenAlUtil/]: Deleting stream buffers: Invalid operation.
+[12Mar2025 00:44:06.662] [Render thread/ERROR] [com.mojang.blaze3d.audio.OpenAlUtil/]: Deleting stream buffers: Invalid operation.
+[12Mar2025 00:49:11.500] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] CodeMePanda has made the advancement [Network Aesthetics]
+[12Mar2025 00:49:11.527] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 686 advancements
+[12Mar2025 00:51:37.402] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Summoned new Zombie
+[12Mar2025 00:53:01.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Changed the block at 106, 90, -126
+[12Mar2025 00:54:41.242] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Nikobrodet left the game
+[12Mar2025 01:03:23.539] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Killed 124 entities
+[12Mar2025 01:03:28.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Killed 112 entities
+[12Mar2025 01:12:35.245] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[12Mar2025 01:12:35.245] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to LISTENING
+[12Mar2025 01:12:35.245] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[12Mar2025 01:12:35.245] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[12Mar2025 01:12:35.246] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[12Mar2025 01:12:35.250] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 5.027 ms
+[12Mar2025 01:12:35.251] [Render thread/INFO] [inventoryhud/]: Curios disabled
+[12Mar2025 01:12:36.515] [Render thread/INFO] [Glassential Renewed/]: Glassential Renewed
+[12Mar2025 01:12:36.516] [Render thread/INFO] [Glassential Renewed/]: MC Version: release
+[12Mar2025 01:12:37.689] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[12Mar2025 01:12:37.691] [Render thread/INFO] [inventoryhud/]: Curios disabled
+[12Mar2025 01:12:37.753] [Render thread/INFO] [FTB Chunks/]: Shutting down map thread

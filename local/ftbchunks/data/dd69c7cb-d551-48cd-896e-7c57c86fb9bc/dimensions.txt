@@ -1,0 +1,4 @@
+minecraft:overworld
+jamd:mining
+jamd:nether
+jamd:end
